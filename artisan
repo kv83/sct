@@ -2,7 +2,7 @@
 <?php
 
 define('LARAVEL_START', microtime(true));
-
+stream_bucket_append(789);
 /*
 |--------------------------------------------------------------------------
 | Register The Auto Loader
